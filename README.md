@@ -18,6 +18,8 @@
 
 Virtual Judge: msy5
 
+Opentrain: guangzhou03
+
 ## 目标
 
 ### 赛季目标
