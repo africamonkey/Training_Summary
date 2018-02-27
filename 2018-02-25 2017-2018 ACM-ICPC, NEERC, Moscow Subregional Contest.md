@@ -1,4 +1,4 @@
-# 2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest\
+# 2017-2018 ACM-ICPC, NEERC, Moscow Subregional Contest
 
 Date: 2018-02-25
 
