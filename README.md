@@ -1,3 +1,9 @@
+# Note
+
+This blog will be closed soon. 
+
+We are building a new training summary system (https://github.com/africamonkey/ICPC-Training-Summary). After finishing, we will move all our data to this new training summary system. 
+
 # Training Summary
 
 ## 队伍信息
